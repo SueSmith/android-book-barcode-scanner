@@ -14,4 +14,4 @@ Feel free to use the code or to contribute to it (pull requests welcome) - I mig
 
 _Please note: Although the code here started the same as the tutorial, I recreated the app in Eclipse prior to adding it to GitHub. For this reason some of the automatically generated files may appear differently to your own if you followed the tutorial steps in the past._
 
-__The ZXing code has also been retrieved from https://github.com/zxing/zxing/tree/master/android-integration/src/main/java/com/google/zxing/integration/android and the minimum SDK updated to 11 in order to use the library.__
+__The current source for the ZXing code is: https://github.com/zxing/zxing/tree/master/android-integration/src/main/java/com/google/zxing/integration/android and the minimum SDK updated to 11 in order to use the library.__
