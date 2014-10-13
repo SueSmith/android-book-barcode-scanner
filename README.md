@@ -1,9 +1,10 @@
 __This repo contains demo code for the following Tuts+ Android tutorial__:
 
 ## Android SDK: Create a Book Scanning App
-http://mobile.tutsplus.com/tutorials/android/android-sdk-create-a-book-scanning-app/
-http://code.tutsplus.com/tutorials/android-sdk-create-a-book-scanning-app-interface-book-search--mobile-17790
-http://code.tutsplus.com/tutorials/android-sdk-create-a-book-scanning-app-part-3--mobile-17880
+
+* http://mobile.tutsplus.com/tutorials/android/android-sdk-create-a-book-scanning-app/
+* http://code.tutsplus.com/tutorials/android-sdk-create-a-book-scanning-app-interface-book-search--mobile-17790
+* http://code.tutsplus.com/tutorials/android-sdk-create-a-book-scanning-app-part-3--mobile-17880
 
 I'm adding the code here as an additional way for readers to use/ contribute to it.
 
